@@ -1,6 +1,0 @@
-*.csv
-creditcard.csv
-venv/
-.venv/
-__pycache__/
-.git/
